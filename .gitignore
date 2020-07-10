@@ -1,0 +1,15 @@
+#archivos
+*.classpath
+*.DS_Store
+
+#ficheros
+\.project
+\.gradle
+\.settings
+*\bin
+*\build
+*\node_modules
+
+ddBlogMakerDevops/spring-shell.log
+
+ddNodeServices/package-lock.json

@@ -1,0 +1,3 @@
+include 'springInTheCloudWeb'
+
+rootProject.name = 'spring_in_the_cloud'
